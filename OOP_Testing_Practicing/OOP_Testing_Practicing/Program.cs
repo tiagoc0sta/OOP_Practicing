@@ -211,8 +211,16 @@ namespace OOP_Testing_Practicing
     //////////////////////////////////////////////////////////////////////////////////
 
     /* 28. Can we do multiple inheritance with Abstract classes  ?
-      No. 
+      No. We can only do multiple inheritance with interfaces.
    */
+    //////////////////////////////////////////////////////////////////////////////////
+
+    /* 28. What is the difference betweeen abstract class and interface  ?
+      No. We can only do multiple inheritance with interfaces.
+   */
+    //////////////////////////////////////////////////////////////////////////////////
+
+
 
 } //
 
