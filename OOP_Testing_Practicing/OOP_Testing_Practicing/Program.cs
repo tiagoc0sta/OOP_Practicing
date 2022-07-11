@@ -25,6 +25,9 @@ namespace OOP_Testing_Practicing
             e1.address = "360 Hoffman st";
             m.Validate(); //Manager is a child class of Employee and inherites the method Validate
 
+            string[] cars = { "Corvete", "Lambo", "Ferrari" };
+            Console.WriteLine("First car of the array : " + cars[0]);
+            //
         }
     }
 
